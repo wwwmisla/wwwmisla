@@ -41,7 +41,7 @@ Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
     </tr>
     <tr>
       <td>
-        <img src="[[https://i.gifer.com/4cS3.gif](https://i.gifer.com/origin/b8/b826d5b473920afdc09d955ddd3e4630.gif)](https://i.gifer.com/4BC.gif)" width="300px" height="170px">
+        <img src="https://i.gifer.com/4cS3.gif" width="300px" height="170px">
       </td>
       <td>
           <img src="https://thumbs.gfycat.com/BleakHeartyGroundhog-size_restricted.gif" width="300px" height="170px">
