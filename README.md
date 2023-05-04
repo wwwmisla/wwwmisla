@@ -85,7 +85,6 @@ Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
   <a href="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio" target="_blank"><img src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio"></a>
   <a href="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino" target="_blank"><img src="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino"></a>
   
-  <br>
+  <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=wwwmisla&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
 </div>
-
