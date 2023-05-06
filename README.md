@@ -69,7 +69,10 @@ Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
     
   <br>
     <!-- <img src="https://github-profile-trophy.vercel.app/?username=wwwmisla&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;"> -->
-    
+  
+</div>
+  
+<div>
    <a href="https://github.com/wwwmisla">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&langs_count=6&theme=tokyonight"/>
