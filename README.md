@@ -56,6 +56,12 @@ Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
   ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
   
   <br>
+  <div>
+   <a href="https://github.com/wwwmisla">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&langs_count=6&theme=tokyonight"/> 
+  </div>
+  <br>
 
   <a href="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"></a>
   <a href="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" target="_blank"><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3"></a>
@@ -65,13 +71,5 @@ Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
   <a href="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino" target="_blank"><img src="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino"></a>
   <a href="https://img.shields.io/badge/-Php-05122A?style=flat&logo=php" target="_blank"><img src="https://img.shields.io/badge/-Php-05122A?style=flat&logo=php"></a>
   <a href="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
-  <a href="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" target="_blank"><img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"></a>
-  
-</div>
-  
-<div style="display: inline_block">
-   <a href="https://github.com/wwwmisla">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&langs_count=6&theme=tokyonight"/>
-   
+  <a href="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" target="_blank"><img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"></a> 
 </div>
