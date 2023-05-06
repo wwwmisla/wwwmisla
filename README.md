@@ -52,15 +52,15 @@ Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
 
 ## ⭐️ Habilidades ⭐️
 <div align="center">
-
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
   
-  <br>
-  <div>
-   <a href="https://github.com/wwwmisla">
+  <a href="https://github.com/wwwmisla">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&langs_count=6&theme=tokyonight"/> 
-  </div>
+
+   <br>
+    
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+   
   <br>
 
   <a href="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"></a>
