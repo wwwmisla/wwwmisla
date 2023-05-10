@@ -45,6 +45,7 @@ Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
 </div>
 
 ## ⭐️ Habilidades ⭐️
+
 <div align="center" display="inline">
   
   <br>
@@ -59,18 +60,18 @@ Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
   <img align="center" alt="Misla-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Misla-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Misla-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-
-  <img align="right" alt="Misla-pic" height="150" style="border-radius:50px;" src="./images/logo-mw.png">
   
  </div>
- 
+  
  ##
  
  <div align="center" display="inline">
   
+  [![trophy](https://github-profile-trophy.vercel.app/?username=wwwmisla&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+    
   <a href="https://github.com/wwwmisla">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&langs_count=6&theme=transparent"/> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&langs_count=6&theme=dracula"/> 
     
  </div>   
     
