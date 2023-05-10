@@ -45,30 +45,39 @@ Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
 </div>
 
 ## ⭐️ Habilidades ⭐️
-<div align="center">
+<div align="center" display="inline">
   
   <br>
   
-  <a href="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"></a>
-  <a href="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" target="_blank"><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3"></a>
-  <a href="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio" target="_blank"><img src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio"></a>
-    <a href="https://img.shields.io/badge/-C-05122A?style=flat&logo=c" target="_blank"><img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c"></a>
-  <a href="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus" target="_blank"><img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus"></a>
-  <a href="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino" target="_blank"><img src="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino"></a>
-  <a href="https://img.shields.io/badge/-Php-05122A?style=flat&logo=php" target="_blank"><img src="https://img.shields.io/badge/-Php-05122A?style=flat&logo=php"></a>
-  <a href="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>
-  <a href="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" target="_blank"><img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"></a>
+  <img align="center" alt="Misla-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Misla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Misla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Misla-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Misla-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Misla-Android-Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Misla-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Misla-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Misla-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Misla-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+
+  <img align="right" alt="Misla-pic" height="150" style="border-radius:50px;" src="./images/logo-mw.png">
   
+ </div>
+ 
  ##
-  
-  <br>
+ 
+ <div align="center" display="inline">
   
   <a href="https://github.com/wwwmisla">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&langs_count=6&theme=tokyonight"/> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&langs_count=6&theme=transparent"/> 
+    
+ </div>   
     
  ##  
+  
+ <div align="center">
     
   ![Snake animation](https://github.com/wwwmisla/wwwmisla/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+ </div>
