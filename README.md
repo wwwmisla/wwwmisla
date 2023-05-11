@@ -20,7 +20,7 @@
   <b><i>"Cedo ou tarde, você vai aprender, assim como eu aprendi, que existe uma diferença entre CONHECER o caminho e TRILHAR o caminho" - Matrix</i></b>
 </div><br>
 
-Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Santa Cruz no curso Técnico de Nível Médio em <b>Informática</b>. Atualmente está graduando em <b>Ciências & Tecnologia</b> pela Universidade Federal do Rio Grande do Norte. Na área da programação o meu foco está sendo em <b>JavaScript</b>. Também gosto de me dedicar ao desenvolvimento mobile no <b>Android Studio</b> utilizando a linguagem <b>Java</b>.
+Cursei o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Santa Cruz no curso Técnico de Nível Médio em <b>Informática</b>. Atualmente estou graduando em <b>Ciências & Tecnologia</b> pela Universidade Federal do Rio Grande do Norte. Na área da programação o meu foco está sendo em <b>JavaScript</b>. Também gosto de me dedicar ao desenvolvimento mobile no <b>Android Studio</b> utilizando a linguagem <b>Java</b>.
 <br><br>
 
 <div align="center">
@@ -39,6 +39,29 @@ Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
       </td>
       <td>
           <img src="https://thumbs.gfycat.com/BleakHeartyGroundhog-size_restricted.gif" width="300px" height="170px">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<b>Além de me aventurar na programação...</b>
+
+- Amo felinos :cat2:
+- Sou apaixonada por MPB :notes:
+- Gosto bastante de ler :notebook_with_decorative_cover:
+- Adoro assistir séries e filmes :movie_camera:
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.tenor.com/NZafVHHok0UAAAAM/gilmore-girls.gif">
+      </td>
+      <td>
+          <img src="https://media.tenor.com/NZafVHHok0UAAAAM/gilmore-girls.gif">
+      </td>
+       <td>
+          <img src="https://media.tenor.com/NZafVHHok0UAAAAM/gilmore-girls.gif">
       </td>
     </tr>
   </table>
@@ -63,12 +86,16 @@ Cursou o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
   <img align="center" alt="Misla-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Misla-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Misla-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
+  <br>
 
  </div>
    
  ## ⭐️ Minhas estatísticas do Github ⭐️
  
  <div align="center" display="inline">
+  
+  <br>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=wwwmisla&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
     
