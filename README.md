@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/wwwmisla">
-    <img src="./images/welcome.png" width="500">
+    <img src="./images/welcomet.gif" width="500">
   </a>
 </div>
 
