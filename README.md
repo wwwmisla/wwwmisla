@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/wwwmisla)
+<!--![Profile views](https://gpvc.arturio.dev/wwwmisla)-->
 
 <div align="center">
   <a href="https://github.com/wwwmisla">
