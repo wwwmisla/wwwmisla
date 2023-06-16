@@ -1,4 +1,5 @@
-<!--![Profile views](https://gpvc.arturio.dev/wwwmisla)-->
+<!--![Profile views](https://gpvc.arturio.dev/wwwmisla)-->   
+<img src="https://profile-counter.glitch.me/wwwmisla/count.svg" />  
 
 <div align="center">
   <a href="https://github.com/wwwmisla">
