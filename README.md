@@ -21,7 +21,7 @@
   <b><i>"Cedo ou tarde, você vai aprender, assim como eu aprendi, que existe uma diferença entre CONHECER o caminho e TRILHAR o caminho" - Matrix</i></b>
 </div><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=I'm+Misla+Wislaine..." align="middle" alt="I'm Misla Wislaine... animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=5D6064&center=true&vCenter=true&width=940&height=50&lines=I'm+Misla+Wislaine..." align="middle" alt="I'm Misla Wislaine... animated typed out">
 <!--img  src="assests/borderseperator.gif"--><br><br>
 
 Cursei o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Santa Cruz no curso Técnico de Nível Médio em <b>Informática</b>. Atualmente estou graduando em <b>Ciências & Tecnologia</b> pela Universidade Federal do Rio Grande do Norte. Na área da programação o meu foco está sendo em <b>JavaScript</b>. Também gosto de me dedicar ao desenvolvimento mobile no <b>Android Studio</b> utilizando a linguagem <b>Java</b>.
