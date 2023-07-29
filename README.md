@@ -101,7 +101,7 @@ Cursei o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
   
   <br>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=wwwmisla&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/wwwmisla/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=wwwmisla&theme=transparant&column=3&margin-w=15&margin-h=15)](https://github.com/wwwmisla/github-profile-trophy)
     
   <!--a href="https://github.com/wwwmisla">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
