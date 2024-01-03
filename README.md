@@ -21,34 +21,13 @@
 Cursei o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Santa Cruz no curso Técnico de Nível Médio em <b>Informática</b>. Atualmente estou graduando em <b>Ciências & Tecnologia</b> pela Universidade Federal do Rio Grande do Norte. Na área da programação o meu foco está sendo em <b>JavaScript</b>. Também gosto de me dedicar ao desenvolvimento mobile no <b>Android Studio</b> utilizando a linguagem <b>Java</b>.
 <br><br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <b>🎓 Técnica em Informática</b>
-      </td>
-      <td>
-        <b>📝 Ciências e Tecnologia</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://i.pinimg.com/564x/c2/de/4f/c2de4fb115601ba35e77bcea45e07398.jpg" width="300px" height="300px">
-      </td>
-      <td>
-          <img src="https://i.pinimg.com/564x/36/59/aa/3659aab25f73029eae84788172fa8434.jpg" width="300px" height="300px">
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="right" src="https://i.pinimg.com/564x/9e/ea/5b/9eea5bac3806420e9c3e5b9ce422461a.jpg" alt="Misla Wislaine" width="320px" /> 
 
 ```
 > 🖥️ Tecnologias e Ferramentas
 ```
 
 <div align="center" display="inline">
-  
- <img align="right" src="https://i.pinimg.com/564x/9e/ea/5b/9eea5bac3806420e9c3e5b9ce422461a.jpg" alt="Misla Wislaine" width="320px" /> 
 
  <div align="justify">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -73,6 +52,8 @@ Cursei o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
     <img src="https://img.shields.io/badge/Android Studio-4EA94B?style=for-the-badge&logo=androidstudio&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-1572B6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
  </div>
+
+<br><br>
 
 </div>
 
