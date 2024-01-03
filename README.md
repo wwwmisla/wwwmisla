@@ -22,6 +22,7 @@ Cursei o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
 <br><br>
 
 <img align="right" src="https://i.pinimg.com/564x/9e/ea/5b/9eea5bac3806420e9c3e5b9ce422461a.jpg" alt="Misla Wislaine" width="320px" /> 
+<br><br>
 
 ```
 > 🖥️ Tecnologias e Ferramentas
