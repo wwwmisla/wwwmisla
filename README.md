@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/wwwmisla">
-    <img src="./images/welcomet.gif" width="500">
+    <img src="./images/welcome-unscreen.gif" width="500">
   </a>
 </div>
 
