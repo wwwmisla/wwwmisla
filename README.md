@@ -18,10 +18,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=5D6064&center=true&vCenter=true&width=940&height=50&lines=I'm+Misla+Wislaine..." align="middle" alt="I'm Misla Wislaine... animated typed out">
 <br><br>
 
-Cursei o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Santa Cruz no curso Técnico de Nível Médio em <b>Informática</b>. Atualmente estou graduando em <b>Ciências & Tecnologia</b> pela Universidade Federal do Rio Grande do Norte. Na área da programação o meu foco está sendo em <b>JavaScript</b>. Também gosto de me dedicar ao desenvolvimento mobile no <b>Android Studio</b> utilizando a linguagem <b>Java</b>.
-<br><br>
+<div align="left">Cursei o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Santa Cruz no curso Técnico de Nível Médio em <b>Informática</b>. Atualmente estou graduando em <b>Ciências & Tecnologia</b> pela Universidade Federal do Rio Grande do Norte. Na área da programação o meu foco está sendo em <b>JavaScript</b>. Também gosto de me dedicar ao desenvolvimento mobile no <b>Android Studio</b> utilizando a linguagem <b>Java</b>.</div>
 
 <img align="right" src="https://i.pinimg.com/564x/9e/ea/5b/9eea5bac3806420e9c3e5b9ce422461a.jpg" alt="Misla Wislaine" width="320px" /> 
+
+<br><br>
 
 ```
 > 🖥️ Tecnologias e Ferramentas
@@ -52,6 +53,11 @@ Cursei o Ensino Médio pelo Instituto Federal de Educação, Ciência e Tecnolog
     <img src="https://img.shields.io/badge/Android Studio-4EA94B?style=for-the-badge&logo=androidstudio&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-1572B6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
  </div>
+
+ <!-- Stats Github
+
+| <a href="https://github.com/wwwmisla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Misla github stats" /></a> | <a href="https://github.com/wwwmisla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |-->
 
 <br><br>
 
