@@ -53,11 +53,7 @@
     <img src="https://img.shields.io/badge/Android Studio-4EA94B?style=for-the-badge&logo=androidstudio&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-1572B6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
  </div>
-
- <!-- Stats Github
-
-| <a href="https://github.com/wwwmisla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Misla github stats" /></a> | <a href="https://github.com/wwwmisla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |-->
+
 
 <br><br>
 
