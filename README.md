@@ -53,7 +53,8 @@
     <img src="https://img.shields.io/badge/Android Studio-4EA94B?style=for-the-badge&logo=androidstudio&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-1572B6?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
  </div>
-
+
+
 
 <br><br>
 
@@ -70,3 +71,5 @@
   <a href="https://github.com/wwwmisla" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
 </div>
+
+<!-- COLOCAR STATS AQUI -->
