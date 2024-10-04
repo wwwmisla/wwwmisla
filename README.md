@@ -48,8 +48,6 @@
 
 </div>
 
-![wwwmisla's github activitty graph](https://ssr-contributions-svg.vercel.app/_/wwwmisla?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=blue)
-
 ```
 > 📊 GitHub Stats
 ```
@@ -58,9 +56,9 @@
 
   <img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=wwwmisla&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=900&border=0B3A78&stroke=FFFFFF&fire=FFFFFF&ring=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&excludeDaysLabel=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=0B3A78&background=0B3A78" alt="Misla Wislaine github stats" />
 
-  <img width="49%" height="100px" align="left" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0B3A78" alt="Misla Wislaine github stats" />
+  <img width="49%" height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=wwwmisla&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0B3A78" alt="Misla Wislaine github stats" />
 
-  <img width="41%" height="100px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0B3A78" />
+  <img width="41%" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwmisla&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0B3A78" />
 
   <img width="100%" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wwwmisla&bg_color=0B3A78&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&border=0B3A78" />
 
